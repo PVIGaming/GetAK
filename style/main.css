@@ -326,27 +326,27 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/pluto.jpg');
+    background: #fff url('../img/nagantm1895.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #fff url('../img/Neptune.jpg');
+    background: #fff url('../img/tokarev.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: #fff url('../img/Uranus.jpg');
+    background: #fff url('../img/makarov.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #fff url('../img/Saturn.jpg');
+    background: #fff url('../img/berdanrifle.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #fff url('../img/Jupiter.jpg');
+    background: #fff url('../img/mosinnagant.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #fff url('../img/Mercury.jpg');
+    background: #fff url('../img/svt40.jpeg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #fff url('../img/Venus.jpg');
+    background: #fff url('../img/sks.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -354,7 +354,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #fff url('../img/Mars.jpg');
+    background: #fff url('../img/ppsh41.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -362,7 +362,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #fff url('../img/Sun.jpg');
+    background: #fff url('../img/rpd.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -370,7 +370,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #fff url('../img/Moon.jpg');
+    background: #fff url('../img/dragunov.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -378,7 +378,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #fff url('../img/Earth.jpg');
+    background: #fff url('../img/ak47.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -386,7 +386,7 @@ hr {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-    background: #fff url('../img/HollowEarth.jpg');
+    background: #fff url('../img/ak50.jpg');
     background-size: cover;
     font-size: 30px; }
     @media screen and (max-width: 520px) {
